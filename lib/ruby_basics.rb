@@ -11,7 +11,7 @@ def argue (argument)
 end
 
 def greeting (salutation, name)
-  
+  puts "#{salutation}, #{name}!"
 end
 
 def return_a_value
