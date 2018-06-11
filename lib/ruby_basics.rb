@@ -15,7 +15,7 @@ def greeting (salutation, name)
 end
 
 def return_a_value
-
+  "nice"ß
 end
 
 def last_evaluated_value
